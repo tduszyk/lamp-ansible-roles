@@ -1,1 +1,1 @@
-Wokrs for Rocky8
+Works for Rocky8
